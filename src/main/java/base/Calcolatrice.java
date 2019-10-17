@@ -12,7 +12,7 @@ public class Calcolatrice {
 	int moltiplicazione(int a, int b) {
 		return a*b;
 	}
-	int divizione(int a, int b) {
+	int divisione(int a, int b) {
 		return a/b;
 	}
 	
